@@ -14,7 +14,21 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_12"
+               BlueprintIdentifier = "OBJ_24"
+               BuildableName = "SwiftyGPIO.framework"
+               BlueprintName = "SwiftyGPIO"
+               ReferencedContainer = "container:rpi-swift-fun.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_39"
                BuildableName = "rpi-swift-fun"
                BlueprintName = "rpi-swift-fun"
                ReferencedContainer = "container:rpi-swift-fun.xcodeproj">
@@ -45,9 +59,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "OBJ_12"
-            BuildableName = "rpi-swift-fun"
-            BlueprintName = "rpi-swift-fun"
+            BlueprintIdentifier = "OBJ_24"
+            BuildableName = "SwiftyGPIO.framework"
+            BlueprintName = "SwiftyGPIO"
             ReferencedContainer = "container:rpi-swift-fun.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
